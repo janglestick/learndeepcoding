@@ -1,7 +1,7 @@
 Start by learning and setting up Git and Github and doing an example probject.
 Learn the majority of TMUX and it's peripheral issues
 Use TMUX to access and use your git files, make sure they can get up to Github
-Learn the basics of VIM
+Learn the basics of VIM --  actually do EMACS FIRST
 set up your .vimrc, make it part of github
 modify your .tmuxconf   for the ESC timeout,  make it part of github
 create a very very basic C program, hello world,  on github
