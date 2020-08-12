@@ -1,4 +1,6 @@
-Start by learning and setting up Git and Github and doing an example probject.
+It's more fun to start with TMUX and some basic SSH
+use this simple environment to sure-up the students knowledge and have a tiny bit of fun after TMUX is explored.
+Then start by learning and setting up Git and Github and doing an example probject.
 Learn the majority of TMUX and it's peripheral issues
 Use TMUX to access and use your git files, make sure they can get up to Github
 Learn the basics of VIM --  actually do EMACS FIRST
