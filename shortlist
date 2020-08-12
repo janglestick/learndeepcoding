@@ -11,6 +11,13 @@ experiment just slightly with controlling IO and redirects, pipes
 create a very very basic shell script folder,  on github
 use shell to get your basic system info, store your best commands there
 
+introduce alias, and make an alias for  %l to be ls -lt or whatever the student thinks is useful.    Use alias to change %l   whenever you are going to be using that type of data a lot.   Versatile, changing.
+how to check aliases,  how to check env vars and a general start about what they are.
+How github can help you with this variability and with distro hopping.
+Create a repo with your basic alises,  essentially just . for now
+have it run each time.    Have .bashrc  (or .loginrc ?>???? whats more generic than bashrc that will run each time)
+so that  %l    is available to you   everywhere you contact github
+
 learn a bit about SSH,   do some setup for SSH certificates
 set up in Shell scripts folder
 (first deep dive)
