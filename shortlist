@@ -12,6 +12,7 @@ use shell to get your basic system info, store your best commands there
 learn a bit about SSH,   do some setup for SSH certificates
 set up in Shell scripts folder
 (first deep dive)
+look at https://werat.github.io/2017/02/04/tmux-ssh-agent-forwarding.html
 
 SWITCH TO EMACS,  learn the basics of Emacs
 learn a bit of Lisp in Emacs
@@ -20,8 +21,24 @@ understand what algorithms work well in Lisp and why
 write a very rudimentary add-on for Emacs
 
 GO Back to Vim
+possily mod your keyboard, set up for touch typing, dont move wrists no mouse no arrows, find a nice easy ESC you like,  (also TAB for shell)
 set up a very simple web/javascript learning folder
 set up Vim so that it works well with javascript (just follow tuts)
+  use VIM in conjunction with Chrome Developer Mode for Javascript
+  possibly use Visual Studio briefly with JavaScript
+
+learn how to use   ]   to find Help on things.
 
 learn how to do your own Vim Highlighting in VimL  (2nd deep dive)
 
+keys to undestanding vim : macros that do repeat, commands that dont, in order to be able to move the effect of macros around
+VIM look at what is There, not what Prints
+VIM uses reverse polish notation
+VIM has a set of functions for inside a line, and for outside lines, often you might rearrange a line so your function works on it
+you sort of whittle outside in and then also inside out, each as lazily as possible. 
+
+install some APL probably tinyAPL and do some programming in it
+APL with VIM?
+RobotFrameWork and RIDE,  self-testing IDE.  with Dyalog APL
+
+do some FOrth,  use some interpreter and/or with VIM
