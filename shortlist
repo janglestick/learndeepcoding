@@ -8,6 +8,8 @@ set up your .vimrc, make it part of github
 full backup, saved undo, sessions, etc.  corrections for ^w etc
 modify your .tmuxconf   for the ESC timeout,  make it part of github
 
+keeping Git organized as a way of keeping your self organized
+
 create a very very basic C program, hello world,  on github
 experiment just slightly with controlling IO and redirects, pipes
 create a very very basic shell script folder,  on github
