@@ -42,6 +42,8 @@ write CRC in a few forms in a few languages
 use CRC for verifying files but also practice using it as a way of practicing for secure encryption
 also use if for keeping Hashes ...   deep dive into CRC and writing it efficiently, use it for comparing program speeds
 
+doing CRC in APL and flush it out so that it can read bytes chars words many things,   full maths 
+
 ethic of not using mouse, not using arrow keys, keeping programming control, using console
 as a  bravado to encourage learning 'roots/fundamentals'
 
