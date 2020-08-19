@@ -31,6 +31,8 @@ set up in Shell scripts folder
 (first deep dive)
 look at https://werat.github.io/2017/02/04/tmux-ssh-agent-forwarding.html
 
+basic use of DIFF and  then in a bit, DIFF in VIM
+
 discussion of statelyness vs functional 
 SWITCH TO EMACS,  learn the basics of Emacs
 learn a bit of Lisp in Emacs
