@@ -1,5 +1,6 @@
 add learn to diff and vim diff,
 build the equivalent of an assembler, and hash table to control your codes
+mouse to focus 
 
 Returns 0 if the directory is changed, and if $PWD is set successfully when
     -P is used; non-zero otherwise.  go ~deep on %cd , checking for errors and otherwise handling $PWD
